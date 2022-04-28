@@ -1,5 +1,5 @@
 # object-app
-App that recognizes object 
+App that recognizes objects through the camera of your smartphone
 
 # Setup
 - Downlaod expo on your phone
